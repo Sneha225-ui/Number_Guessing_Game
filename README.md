@@ -16,6 +16,6 @@ A simple command-line game built with Python where players try to guess a random
 - User input handling
 - Random number generation
 
-## 👩‍💻 Author
+## Author
 
 **Sneha**
